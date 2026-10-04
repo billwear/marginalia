@@ -34,17 +34,17 @@
  - Electronic banking interbank transaction servers
  - NSA secure Linux servers
 
-## Languages I routinely code in for fun:
+### Languages I routinely code in for fun:
 
  - Assemblers (various)
  - Elisp
  - nroff/troff
 
-## Certifications I hold:
+### Certifications I hold:
 
  - Oracle Master's License
 
-## Books I've taken to publication, either as author, co-author, or ghostwriter:
+### Books I've taken to publication, either as author, co-author, or ghostwriter:
 
  - Programming the X-Window System
  - Java Security
@@ -53,7 +53,7 @@
  - The Product Manager's Desk Reference
  - Four books on Customer Experience (Confidentiality agreements, so- ## - ## - ## - ## )
  
-## Places I've lurked online
+### Places I've lurked online
 
  - Hundreds of BBS systems
  - Hundreds of newsgroups
@@ -69,7 +69,7 @@
  - Signal
  - Telegram
 
-## Handles I've used
+### Handles I've used
 
  - phastreorder
  - SigTramp
@@ -78,7 +78,7 @@
  
 Nothing much said about my personal life- ## That's intentional, but to satisfy some of that curiosity, here are a few random personal things:
 
-## Skills I've just always had:
+### Skills I've just always had:
 
 - The ability to condense complex things into a simple graphic- ## 
 - The ability to instantly organise confusion and chaos into a balanced, effective plan of action- ## 
@@ -147,10 +147,10 @@ Nothing much said about my personal life- ## That's intentional, but to satisfy 
 
 - Non-sugared Coca-Cola products
 - Hamburgers
-- Crawfish n
+- Crawfish nachos
 - Prime rib
-- Any kind o
-- Everythingnd cream cheese
+- Any kind of dessert
+- Everything bagels and cream cheese
 
 ### Favorite shows:
 
