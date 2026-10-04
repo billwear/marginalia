@@ -53,7 +53,7 @@
  - The Product Manager's Desk Reference
  - Four books on Customer Experience (Confidentiality agreements, so- ## - ## - ## - ## )
  
-### Places I've lurked online
+### Places I've lurked online:
 
  - Hundreds of BBS systems
  - Hundreds of newsgroups
@@ -69,7 +69,7 @@
  - Signal
  - Telegram
 
-### Handles I've used
+### Handles I've used:
 
  - phastreorder
  - SigTramp
