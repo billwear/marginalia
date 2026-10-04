@@ -147,14 +147,14 @@ Nothing much said about my personal life- ## That's intentional, but to satisfy 
 
 - Non-sugared Coca-Cola products
 - Hamburgers
-- Crawfish nachos
+- Crawfish n
 - Prime rib
-- Any kind of dessert
-- Everything bagels and cream cheese
+- Any kind o
+- Everythingnd cream cheese
 
-### Favorite television shows:
+### Favorite shows:
 
-- Star Trek TOS
+- Star Trek 
 - Mission: Impossible
 - Person of Interest
 - Supergirl
