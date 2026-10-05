@@ -6,6 +6,8 @@ Pieces of my life in byte-sized chunks.
 
 - [Wild and crazy stuff about me](about-me.md)
 
+- [Chatronyms (chat abbreviations)](chatronyms.md)
+
 - [The polymath in my life](about-my-dad.md)
 
 - [My exoself](my-exoself.md)
