@@ -113,7 +113,7 @@ The unwieldy part came with all the repeated tasks, and tasks that got carried o
 
 I did it, but intermittently, supplanting it with post-it notes, pads, planners galore, palm pilots, palmtop computers, etc. It seemed like every day I was badly copying tasks from one day to the next. Meanwhile, my unwillingness to use Windows didn't give the the luxury of Outlook, when it came along.  
 
-I got turned onto emacs sometime in the mid-nineties, when I moved to Atlanta to work for HP. A fellow writer there used it, and suggested it might help me write and code up examples more effectively. He was right, and it stuck as my editing platform of choice. But I hadn't discovered org-mode yet. Either nobody I knew used it, or it hadn't been invented yet. And to be honest, I kinda went back and forth between vi and emacs, depending on my "mood of the month."  
+I got turned onto emacs sometime in the mid-eighties. A fellow coder used it, and suggested it might help me code more effectively. He was right, and it stuck as my editing platform of choice. But I hadn't discovered org-mode yet. Either nobody I knew used it, or it hadn't been invented yet. And to be honest, I kinda went back and forth between vi and emacs, depending on my "mood of the month."  
 
 
 
