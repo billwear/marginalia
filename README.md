@@ -2,6 +2,10 @@
 
 Pieces of my life in byte-sized chunks.
 
- - [About me](about-me.md)
+- [Life is 90% of my use cases for Org Mode](life-is-90-percent.md)
 
-- [About my dad](about-my-dad.md)
+- [Wild and crazy stuff about me](about-me.md)
+
+- [The polymath in my life](about-my-dad.md)
+
+- [My exoself](my-exoself.md)
